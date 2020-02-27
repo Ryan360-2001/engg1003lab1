@@ -10,7 +10,7 @@
     printf("Enter a number: ");
     scanf("%f", &x); //note:change%d to %f
     //complete the y line below
-    y = (x+2)/(x-1);
+    y = (x+5);
     printf("y: %f\n", y);
     return 0;
 }
